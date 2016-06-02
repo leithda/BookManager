@@ -11,5 +11,5 @@ Ps：运行需要mysql数据库以及eclipse IDE
 
 
 初学者，练手用，不足之处请见谅。
-博客地址：http://www.cnblogs.com/qmzmfteam/ 
+博客地址：http://www.cnblogs.com/qmzmfteam/p/5516108.html
 有问题请留言。
